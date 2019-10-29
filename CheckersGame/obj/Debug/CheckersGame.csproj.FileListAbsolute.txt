@@ -1,0 +1,11 @@
+C:\Users\Eric\source\repos\CheckersGame\CheckersGame\bin\Debug\CheckersGame.exe.config
+C:\Users\Eric\source\repos\CheckersGame\CheckersGame\bin\Debug\CheckersGame.exe
+C:\Users\Eric\source\repos\CheckersGame\CheckersGame\bin\Debug\CheckersGame.pdb
+C:\Users\Eric\source\repos\CheckersGame\CheckersGame\obj\Debug\CheckersGame.csprojAssemblyReference.cache
+C:\Users\Eric\source\repos\CheckersGame\CheckersGame\obj\Debug\CheckersGame.Properties.Resources.resources
+C:\Users\Eric\source\repos\CheckersGame\CheckersGame\obj\Debug\CheckersGame.csproj.GenerateResource.cache
+C:\Users\Eric\source\repos\CheckersGame\CheckersGame\obj\Debug\CheckersGame.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\CheckersGame\CheckersGame\obj\Debug\CheckersGame.exe
+C:\Users\Eric\source\repos\CheckersGame\CheckersGame\obj\Debug\CheckersGame.pdb
+C:\Users\Eric\source\repos\CheckersGame\CheckersGame\obj\Debug\CheckersGame.frmGame.resources
+C:\Users\Eric\source\repos\CheckersGame\CheckersGame\obj\Debug\CheckersGame.frmMenu.resources
